@@ -1,0 +1,9 @@
+edge_matched,edge_p,edge_r,edge_f1,timed_out,hierarchy_matched,hierarchy_gt,hierarchy_pred,hierarchy_p,hierarchy_r,hierarchy_f1,directional_matched,directional_gt,directional_pred,directional_p,directional_r,directional_f1,correlational_matched,correlational_gt,correlational_pred,correlational_p,correlational_r,correlational_f1,moderation_matched,moderation_gt,moderation_pred,moderation_p,moderation_r,moderation_f1,article_id,gt_n_edges,pred_n_edges,strategy,any_timeout,model
+3,1.0,1.0,1.0,False,0,0,0,1.0,1.0,1.0,2,2,2,1.0,1.0,1.0,0,0,0,1.0,1.0,1.0,1,1,1,1.0,1.0,1.0,7,3,3,degree_desc,False,claude_sonnet
+6,1.0,1.0,1.0,False,0,0,0,1.0,1.0,1.0,2,2,2,1.0,1.0,1.0,0,0,0,1.0,1.0,1.0,4,4,4,1.0,1.0,1.0,97,6,6,degree_desc,False,claude_sonnet
+16,0.9411764705882352,0.6666666666666666,0.7804878048780487,True,5,8,5,1.0,0.625,0.7692307692307693,5,9,6,0.8333333333333334,0.5555555555555556,0.6666666666666667,0,1,0,0.0,0.0,0.0,6,6,6,1.0,1.0,1.0,100,24,17,degree_desc,True,claude_sonnet
+1,1.0,1.0,1.0,False,0,0,0,1.0,1.0,1.0,1,1,1,1.0,1.0,1.0,0,0,0,1.0,1.0,1.0,0,0,0,1.0,1.0,1.0,106,1,1,degree_desc,False,claude_sonnet
+9,0.8181818181818182,0.8181818181818182,0.8181818181818182,False,2,3,2,1.0,0.6666666666666666,0.8,6,6,8,0.75,1.0,0.8571428571428571,1,2,1,1.0,0.5,0.6666666666666666,0,0,0,1.0,1.0,1.0,112,11,11,degree_desc,False,claude_sonnet
+14,1.0,1.0,1.0,False,5,5,5,1.0,1.0,1.0,9,9,9,1.0,1.0,1.0,0,0,0,1.0,1.0,1.0,0,0,0,1.0,1.0,1.0,135,14,14,degree_desc,False,claude_sonnet
+2,1.0,1.0,1.0,False,0,0,0,1.0,1.0,1.0,2,2,2,1.0,1.0,1.0,0,0,0,1.0,1.0,1.0,0,0,0,1.0,1.0,1.0,155,2,2,degree_desc,False,claude_sonnet
+4,0.8,0.6666666666666666,0.7272727272727272,False,0,0,0,1.0,1.0,1.0,2,2,2,1.0,1.0,1.0,0,0,0,1.0,1.0,1.0,2,4,3,0.6666666666666666,0.5,0.5714285714285715,178,6,5,degree_desc,False,claude_sonnet

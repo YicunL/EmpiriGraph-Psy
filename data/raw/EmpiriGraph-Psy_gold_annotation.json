@@ -1,0 +1,2481 @@
+[
+  {
+    "id": 7,
+    "annotations": [
+      {
+        "id": 18,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "start": 106,
+              "end": 134,
+              "text": "answer inferential questions",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "9xPuwVY7dW",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 343,
+              "end": 359,
+              "text": "different modes.",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "Esvv7nJjoA",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 775,
+              "end": 790,
+              "text": "skilled readers",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "L4WClILHYA",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "from_id": "Esvv7nJjoA",
+            "to_id": "9xPuwVY7dW",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "direction__validated",
+              "moderation__validated"
+            ]
+          },
+          {
+            "from_id": "L4WClILHYA",
+            "to_id": "9xPuwVY7dW",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "direction__validated"
+            ]
+          },
+          {
+            "from_id": "Esvv7nJjoA",
+            "to_id": "L4WClILHYA",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "moderation__validated"
+            ]
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-03-05T20:50:12.423749Z",
+        "updated_at": "2026-03-28T11:58:17.331423Z",
+        "draft_created_at": "2026-03-05T20:40:21.040604Z",
+        "lead_time": 2401.171,
+        "prediction": {},
+        "result_count": 4,
+        "unique_id": "6490e476-15e1-4d43-956d-b7e8e551a9d6",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 7,
+        "project": 1,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "d20731fd-JOURNAL_OF_EDUCATIONAL_PSYCHOLOGY_sampled_articles.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "ORN": 612,
+      "VN": "Ovid Technologies",
+      "DB": "APA PsycInfo",
+      "TI": "Children's inferences with print and pictures. [References].",
+      "YR": 1987,
+      "AU": "Holmes, Betty C",
+      "PT": "Journal\n\nPeer Reviewed Journal",
+      "AB": "The primary purpose of this study was to determine whether there is a difference in children's ability to answer inferential questions from pictures, print, and print with pictures. A secondary purpose was to determine whether there is a difference between more skilled and less skilled reader's ability to answer inferential questions in the different modes. The participants in the study were 116 fifth- and sixth-grade students. The materials consisted of 15 photographs and 15 passages of 150 to 200 words. Each student participated in each condition by answering 25 inferential questions. The results indicated that the students performed significantly better in the picture-only and the print-with-picture conditions than in the print-only condition. Although the more skilled readers scored significantly better than the less skilled readers in the print-only condition, there were no differences between the two ability groups in the two picture conditions. Qualitative analyses were also conducted on the students' responses for determining possible sources of errors. (PsycInfo Database Record (c) 2025 APA, all rights reserved)",
+      "CC": "Academic Learning & Achievement [3550].",
+      "MD": "Empirical Study",
+      "JN": "Journal of Educational Psychology",
+      "VO": 79,
+      "IP": 1,
+      "FTURL": "Click here for full text options",
+      "XL": "LibKey Link",
+      "Methodology_Category": "Other",
+      "Period": "1980-1989"
+    },
+    "meta": {},
+    "created_at": "2026-03-04T11:31:42.431983Z",
+    "updated_at": "2026-03-28T11:58:17.347709Z",
+    "allow_skip": true,
+    "inner_id": 7,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 97,
+    "annotations": [
+      {
+        "id": 61,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "start": 900,
+              "end": 926,
+              "text": "relevant unemployment rate",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "LTjiDNqJ0D",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 881,
+              "end": 891,
+              "text": "pay growth",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "9UsnNgGOBx",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 941,
+              "end": 952,
+              "text": "performance",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "7OIqbuJo2L",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 982,
+              "end": 1000,
+              "text": "voluntary turnover",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "5N0IE9Pitr",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 1050,
+              "end": 1075,
+              "text": "employee job satisfaction",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "ub7PoW1f9a",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "from_id": "7OIqbuJo2L",
+            "to_id": "5N0IE9Pitr",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "direction__validated"
+            ]
+          },
+          {
+            "from_id": "9UsnNgGOBx",
+            "to_id": "7OIqbuJo2L",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "moderation__validated"
+            ]
+          },
+          {
+            "from_id": "9UsnNgGOBx",
+            "to_id": "5N0IE9Pitr",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "moderation__validated"
+            ]
+          },
+          {
+            "from_id": "LTjiDNqJ0D",
+            "to_id": "7OIqbuJo2L",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "moderation__validated"
+            ]
+          },
+          {
+            "from_id": "LTjiDNqJ0D",
+            "to_id": "5N0IE9Pitr",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "moderation__validated"
+            ]
+          },
+          {
+            "from_id": "ub7PoW1f9a",
+            "to_id": "5N0IE9Pitr",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "direction__validated"
+            ]
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-03-13T10:41:01.442579Z",
+        "updated_at": "2026-03-13T10:46:13.521938Z",
+        "draft_created_at": "2026-03-12T18:59:14.639732Z",
+        "lead_time": 501.97100000000006,
+        "prediction": {},
+        "result_count": 6,
+        "unique_id": "2cd124ad-fc0d-4411-b2e1-19243c4e763c",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 97,
+        "project": 1,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "eaefbb53-JOURNAL_OF_APPLIED_PSYCHOLOGY_sampled_articles.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "ORN": 2467,
+      "VN": "Ovid Technologies",
+      "DB": "APA PsycInfo",
+      "TI": "Retaining your high performers: Moderators of the performance-job satisfaction-voluntary turnover relationship. [References].",
+      "YR": 2010,
+      "AU": "Nyberg, Anthony",
+      "PT": "Journal\n\nPeer Reviewed Journal",
+      "DT": "Journal Article",
+      "AB": "Two divergent ideas explain the relationship between performance and voluntary turnover. One suggests that higher performing employees, who are rewarded for their superior work product, will desire to remain with an organization that values their performance and will, consequently, be less likely than lower performing employees to voluntarily leave. An alternative idea suggests that higher performing employees, who are more desirable to external companies as a result of their superior work product, will have more external job opportunities and will, consequently, be more likely than their lower performing colleagues to voluntarily leave. The current study evaluated the behaviors and attitudes of 12,545 insurance employees over a 3-year period to examine how these 2 divergent expectations influence the performance-voluntary turnover relationship. Results show that both pay growth and the relevant unemployment rate interact with performance to influence the performance-voluntary turnover relationship and that they work independently of employee job satisfaction influences. (PsycInfo Database Record (c) 2025 APA, all rights reserved)",
+      "ID": "compensation\n\njob satisfaction\n\npay for performance\n\nperformance\n\nturnover",
+      "CC": "Personnel Attitudes & Job Satisfaction [3650].",
+      "MD": "Empirical Study; Longitudinal Study; Retrospective Study",
+      "JN": "Journal of Applied Psychology",
+      "VO": 95,
+      "IP": 3,
+      "FTURL": "Click here for full text options",
+      "AI": "",
+      "Methodology_Category": "Other",
+      "Period": "2010-2019"
+    },
+    "meta": {},
+    "created_at": "2026-03-11T09:51:47.176762Z",
+    "updated_at": "2026-03-13T10:46:13.542476Z",
+    "allow_skip": true,
+    "inner_id": 61,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 100,
+    "annotations": [
+      {
+        "id": 63,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "start": 508,
+              "end": 556,
+              "text": "workplace microaggression toward Black employees",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "q0dbK_wAe6",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 558,
+              "end": 590,
+              "text": "anti-Black stereotype expression",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "Dugs6peybP",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 592,
+              "end": 618,
+              "text": "racialized role assignment",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "8P7tenupDm",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 624,
+              "end": 647,
+              "text": "interactional injustice",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "1_KibcWcbv",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 947,
+              "end": 980,
+              "text": "subsequent resource replenishment",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "BizhcpZadL",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 1006,
+              "end": 1025,
+              "text": "discussing feelings",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "Q6ZLWSp8cV",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 1030,
+              "end": 1067,
+              "text": "venting about problems with coworkers",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "sYOxMmxEKt",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 1085,
+              "end": 1095,
+              "text": "protection ",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "SiGg_P0zZM",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 1274,
+              "end": 1281,
+              "text": "burnout",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "VU5p_EcaRl",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 1286,
+              "end": 1302,
+              "text": "job satisfaction",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "g-BYLjL_gP",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 1354,
+              "end": 1372,
+              "text": "resourcing efforts",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "rUq-NaXtMq",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 1419,
+              "end": 1435,
+              "text": "trait resiliency",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "Eh2HGZl5OP",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 1439,
+              "end": 1461,
+              "text": "organizational support",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "PyVAryMt_u",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 988,
+              "end": 1001,
+              "text": "co-rumination",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "xv-w5ucCp2",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 1103,
+              "end": 1127,
+              "text": "racism-related vigilance",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "jXWoI8Rmoa",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 1132,
+              "end": 1174,
+              "text": "mentally preparing for anticipated racism;",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "jDPgMVGGCE",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "from_id": "q0dbK_wAe6",
+            "to_id": "Dugs6peybP",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "hierarchy"
+            ]
+          },
+          {
+            "from_id": "q0dbK_wAe6",
+            "to_id": "8P7tenupDm",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "hierarchy"
+            ]
+          },
+          {
+            "from_id": "q0dbK_wAe6",
+            "to_id": "1_KibcWcbv",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "hierarchy"
+            ]
+          },
+          {
+            "from_id": "q0dbK_wAe6",
+            "to_id": "BizhcpZadL",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "direction__validated"
+            ]
+          },
+          {
+            "from_id": "q0dbK_wAe6",
+            "to_id": "SiGg_P0zZM",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "direction__validated"
+            ]
+          },
+          {
+            "from_id": "BizhcpZadL",
+            "to_id": "xv-w5ucCp2",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "hierarchy"
+            ]
+          },
+          {
+            "from_id": "BizhcpZadL",
+            "to_id": "Q6ZLWSp8cV",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "hierarchy"
+            ]
+          },
+          {
+            "from_id": "BizhcpZadL",
+            "to_id": "sYOxMmxEKt",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "hierarchy"
+            ]
+          },
+          {
+            "from_id": "SiGg_P0zZM",
+            "to_id": "jXWoI8Rmoa",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "hierarchy"
+            ]
+          },
+          {
+            "from_id": "SiGg_P0zZM",
+            "to_id": "jDPgMVGGCE",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "hierarchy"
+            ]
+          },
+          {
+            "from_id": "q0dbK_wAe6",
+            "to_id": "VU5p_EcaRl",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "direction__validated"
+            ]
+          },
+          {
+            "from_id": "q0dbK_wAe6",
+            "to_id": "g-BYLjL_gP",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "direction__validated"
+            ]
+          },
+          {
+            "from_id": "rUq-NaXtMq",
+            "to_id": "g-BYLjL_gP",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "correlation__validated"
+            ]
+          },
+          {
+            "from_id": "Eh2HGZl5OP",
+            "to_id": "q0dbK_wAe6",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "moderation__null"
+            ]
+          },
+          {
+            "from_id": "Eh2HGZl5OP",
+            "to_id": "VU5p_EcaRl",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "moderation__null"
+            ]
+          },
+          {
+            "from_id": "Eh2HGZl5OP",
+            "to_id": "g-BYLjL_gP",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "moderation__null"
+            ]
+          },
+          {
+            "from_id": "PyVAryMt_u",
+            "to_id": "q0dbK_wAe6",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "moderation__null"
+            ]
+          },
+          {
+            "from_id": "PyVAryMt_u",
+            "to_id": "VU5p_EcaRl",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "moderation__null"
+            ]
+          },
+          {
+            "from_id": "PyVAryMt_u",
+            "to_id": "g-BYLjL_gP",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "moderation__null"
+            ]
+          },
+          {
+            "from_id": "q0dbK_wAe6",
+            "to_id": "xv-w5ucCp2",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "direction__validated"
+            ]
+          },
+          {
+            "from_id": "q0dbK_wAe6",
+            "to_id": "Q6ZLWSp8cV",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "direction__validated"
+            ]
+          },
+          {
+            "from_id": "q0dbK_wAe6",
+            "to_id": "sYOxMmxEKt",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "direction__validated"
+            ]
+          },
+          {
+            "from_id": "q0dbK_wAe6",
+            "to_id": "jXWoI8Rmoa",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "direction__validated"
+            ]
+          },
+          {
+            "from_id": "q0dbK_wAe6",
+            "to_id": "jDPgMVGGCE",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "direction__validated"
+            ]
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-03-16T14:31:39.443706Z",
+        "updated_at": "2026-05-12T23:11:21.713525Z",
+        "draft_created_at": "2026-03-16T14:27:10.035317Z",
+        "lead_time": 4179.578999999998,
+        "prediction": {},
+        "result_count": 17,
+        "unique_id": "1595054a-f554-4922-a4f3-61cc5806b0d9",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 100,
+        "project": 1,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "eaefbb53-JOURNAL_OF_APPLIED_PSYCHOLOGY_sampled_articles.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "ORN": 3544,
+      "VN": "Ovid Technologies",
+      "DB": "APA PsycInfo",
+      "TI": "When thriving requires effortful surviving: Delineating manifestations and resource expenditure outcomes of microaggressions for Black employees. [References].",
+      "YR": 2023,
+      "AU": "King, Danielle D\n\nFattoracci, Elisa S. M\n\nHollingsworth, David W\n\nStahr, Elliot\n\nNelson, Melinda",
+      "PT": "Journal\n\nPeer Reviewed Journal",
+      "DT": "Journal Article",
+      "AB": "Although overt racism is condemned by many organizations, insidious forms of racism persist. Drawing on the conservation of resources framework (Hobfoll, 1989), this article identifies forms and outcomes of racial microaggressions-daily verbal, behavioral, and environmental indignities that denigrate individuals from racially minoritized groups (Sue, Capodilupo, et al., 2007). Leveraging survey data from 345 Black employees, open-ended question qualitative insights delineate three overarching themes of workplace microaggression toward Black employees: anti-Black stereotype expression, racialized role assignment, and interactional injustice. We also detail how these themes manifest in nine distinct ways. Then, we model the cognitive and emotional resource recovery and protection processes that Black employees engage in to overcome workplace microaggressions. Quantitative results demonstrated that workplace microaggressions related to subsequent resource replenishment (i.e., co-rumination, or discussing feelings and venting about problems with coworkers; Rose, 2002) and protection (i.e., racism-related vigilance, or mentally preparing for anticipated racism; Clark et al., 2006) efforts. Further, results suggested undesirable effects of microaggressions on burnout and job satisfaction. Finally, we found a positive relationship between resourcing efforts and job satisfaction but found no support for trait resiliency or organizational support as buffers of microaggression effects. Implications for future research and direct interventions are discussed. (PsycInfo Database Record (c) 2025 APA, all rights reserved)",
+      "ID": "racism\n\nmicroaggressions\n\nanti-Black racism\n\nconservation of resources",
+      "CC": "Personnel Attitudes & Job Satisfaction [3650].",
+      "MD": "Empirical Study; Qualitative Study; Quantitative Study",
+      "JN": "Journal of Applied Psychology",
+      "VO": 108,
+      "IP": 2,
+      "FTURL": "Click here for full text options",
+      "AI": "King, Danielle D.; ORCID: https://orcid.org/0000-0002-1277-5669\n\nFattoracci, Elisa S. M.; ORCID: https://orcid.org/0000-0002-2562-7374",
+      "Methodology_Category": "Both Quantitative and Qualitative",
+      "Period": "2020-2029"
+    },
+    "meta": {},
+    "created_at": "2026-03-11T09:51:47.176897Z",
+    "updated_at": "2026-05-12T23:11:21.727269Z",
+    "allow_skip": true,
+    "inner_id": 64,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 106,
+    "annotations": [
+      {
+        "id": 70,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "start": 356,
+              "end": 402,
+              "text": "a technique for using methoxyfhuane inhalation",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "puuCublmVB",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 411,
+              "end": 441,
+              "text": "induction of muscle relaxation",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "Sg9Hahx64N",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "from_id": "puuCublmVB",
+            "to_id": "Sg9Hahx64N",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "direction__hypothesized"
+            ]
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-03-25T11:10:05.937274Z",
+        "updated_at": "2026-05-12T20:38:08.161440Z",
+        "draft_created_at": "2026-03-25T11:10:02.753018Z",
+        "lead_time": 80.161,
+        "prediction": {},
+        "result_count": 3,
+        "unique_id": "b8dedce7-e005-4f21-9555-c1b0872c5072",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 106,
+        "project": 1,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "6e706c57-behaviour_research_and_therapy_1963-2025_sampled_articles.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "ORN": 42,
+      "VN": "Ovid Technologies",
+      "DB": "APA PsycInfo",
+      "TI": "Penthranization: An adjuvant in behaviour therapy. [References].",
+      "YR": 1969,
+      "AU": "Meldman, M",
+      "PT": "Journal\n\nPeer Reviewed Journal",
+      "DT": "Journal Article",
+      "AB": "Various adjuvants have been used to facilitate systematic desensitization by means of reciprocal inhibition. Woipe (1958) described a modification of LaVern's (1953) carbon dioxide therapy useful in the treatment of pervasive anxiety. Friedman (1966) used Brevital in the relaxation treatment of frigidity. The purpose of this communication is to describe a technique for using methoxyfhuane inhalation for the induction of muscle relaxation as an adjuvant to behaviour therapy. (PsycInfo Database Record (c) 2021 APA, all rights reserved)",
+      "ID": "behavior therapy\n\npenthranization\n\nsystematic desensitization\n\ncarbon dioxide therapy\n\nrelaxation treatment\n\npervasive anxiety\n\nmethoxyfhuane inhalation",
+      "CC": "Behavior Therapy & Behavior Modification [3312].",
+      "MD": "Empirical Study; Qualitative Study",
+      "JN": "Behaviour Research and Therapy",
+      "VO": 7,
+      "IP": 2.0,
+      "FTURL": "Click here for full text options",
+      "XL": "LibKey Link",
+      "AI": "",
+      "Methodology_Category": "Qualitative Only",
+      "Period": "1960-1969"
+    },
+    "meta": {},
+    "created_at": "2026-03-25T11:06:11.372070Z",
+    "updated_at": "2026-05-12T20:38:08.178965Z",
+    "allow_skip": true,
+    "inner_id": 70,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 112,
+    "annotations": [
+      {
+        "id": 75,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "start": 39,
+              "end": 103,
+              "text": "social skills training (SST) and rational emotive therapy (RET),",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "gFLX5_lxWE",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 39,
+              "end": 103,
+              "text": [
+                "treatment method"
+              ]
+            },
+            "id": "gFLX5_lxWE",
+            "from_name": "var_name",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 189,
+              "end": 212,
+              "text": "treatment effectiveness",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "SPrQPNbZr-",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 659,
+              "end": 693,
+              "text": "Ss who needed additional treatment",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "Dm72ga2R1v",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 162,
+              "end": 185,
+              "text": "patient characteristics",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "9XNtxHoGBk",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 394,
+              "end": 410,
+              "text": "response-pattern",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "0gXvjfB2Bh",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 351,
+              "end": 374,
+              "text": "Long-term effectiveness",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "bpVZcjj8OL",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 804,
+              "end": 849,
+              "text": "relapse after relatively successful treatment",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "Tcj1_T8I5f",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 581,
+              "end": 657,
+              "text": "confederate ratings of overt behavior on a simulated social interaction test",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "vmgauy5lCX",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "from_id": "9XNtxHoGBk",
+            "to_id": "SPrQPNbZr-",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "direction__validated"
+            ]
+          },
+          {
+            "from_id": "SPrQPNbZr-",
+            "to_id": "bpVZcjj8OL",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "hierarchy"
+            ]
+          },
+          {
+            "from_id": "SPrQPNbZr-",
+            "to_id": "Dm72ga2R1v",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "hierarchy"
+            ]
+          },
+          {
+            "from_id": "SPrQPNbZr-",
+            "to_id": "Tcj1_T8I5f",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "hierarchy"
+            ]
+          },
+          {
+            "from_id": "0gXvjfB2Bh",
+            "to_id": "bpVZcjj8OL",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "correlation__null"
+            ]
+          },
+          {
+            "from_id": "gFLX5_lxWE",
+            "to_id": "SPrQPNbZr-",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "direction__null"
+            ]
+          },
+          {
+            "from_id": "gFLX5_lxWE",
+            "to_id": "Tcj1_T8I5f",
+            "type": "relation",
+            "direction": "bi",
+            "labels": [
+              "direction__null"
+            ]
+          },
+          {
+            "from_id": "9XNtxHoGBk",
+            "to_id": "Tcj1_T8I5f",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "direction__null"
+            ]
+          },
+          {
+            "from_id": "vmgauy5lCX",
+            "to_id": "Dm72ga2R1v",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "direction__validated"
+            ]
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-03-25T11:40:54.595531Z",
+        "updated_at": "2026-04-27T19:32:33.402639Z",
+        "draft_created_at": "2026-03-25T11:35:12.714623Z",
+        "lead_time": 21101.15,
+        "prediction": {},
+        "result_count": 9,
+        "unique_id": "67c86dca-4d93-4703-93a7-9b6a75b21646",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 112,
+        "project": 1,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "6e706c57-behaviour_research_and_therapy_1963-2025_sampled_articles.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "ORN": 701,
+      "VN": "Ovid Technologies",
+      "DB": "APA PsycInfo",
+      "TI": "Social phobia: Individual response patterns and the long-term effects of behavioral and cognitive interventions. A follow-up study.",
+      "YR": 1991,
+      "AU": "Mersch, Peter P\n\nEmmelkamp, Paul M\n\nLips, Charles",
+      "PT": "Journal\n\nPeer Reviewed Journal",
+      "DT": "Journal Article",
+      "AB": "Studied the long-term effectiveness of social skills training (SST) and rational emotive therapy (RET), on social phobia as well as the differential influence of patient characteristics on treatment effectiveness. 57 patients (aged 18-56 yrs) were assessed 14 mo after the posttest in a previous study (P. P. Mersch et al; see record 1990-02137-001). Long-term effectiveness was independent of response-pattern. Comparisons showed no differences in effectiveness in favor of either SST or RET. Explorative analysis indicated the potential predictive power for treatment-outcome of confederate ratings of overt behavior on a simulated social interaction test. Ss who needed additional treatment appeared to perform significantly worse on this measure at pretest. No factors could be traced that predicted relapse after relatively successful treatment. Duration of treatment may be a more important factor than treatment method in social phobia. (PsycInfo Database Record (c) 2021 APA, all rights reserved)",
+      "ID": "social skills training & rational emotive therapy, social phobic 18-56 yr olds, 14 mo followup",
+      "CC": "Health & Mental Health Treatment & Prevention [3300].",
+      "MD": "Empirical Study; Followup Study",
+      "JN": "Behaviour Research and Therapy",
+      "VO": 29,
+      "IP": 4.0,
+      "FTURL": "Click here for full text options",
+      "XL": "LibKey Link",
+      "AI": "Emmelkamp, Paul M.; ORCID: https://orcid.org/0000-0001-6066-5512",
+      "Methodology_Category": "Other",
+      "Period": "1990-1999"
+    },
+    "meta": {},
+    "created_at": "2026-03-25T11:06:11.372318Z",
+    "updated_at": "2026-04-27T19:32:33.418706Z",
+    "allow_skip": true,
+    "inner_id": 76,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 135,
+    "annotations": [
+      {
+        "id": 99,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "start": 402,
+              "end": 433,
+              "text": "multidimensional family therapy",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "PkXWivF1eX",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 1082,
+              "end": 1093,
+              "text": "delinquency",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "M4o1wuWvKD",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 1110,
+              "end": 1131,
+              "text": "internalized distress",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "XyA1hkGKbr",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 1151,
+              "end": 1174,
+              "text": "reducing risk in family",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "JQ_Y8nOg6J",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 1176,
+              "end": 1180,
+              "text": "peer",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "A3rC90sEK_",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 1186,
+              "end": 1200,
+              "text": "school domains",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "ReXj-BwNOI",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 1012,
+              "end": 1035,
+              "text": "substance use frequency",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "yl-jZk-Bap",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 1047,
+              "end": 1069,
+              "text": "substance use problems",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "XmcFRvzYgm",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 984,
+              "end": 997,
+              "text": "substance use",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "7igkPxWlgO",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 270,
+              "end": 280,
+              "text": "known risk",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "HQICohtV8H",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "from_id": "PkXWivF1eX",
+            "to_id": "M4o1wuWvKD",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "direction__validated"
+            ]
+          },
+          {
+            "from_id": "PkXWivF1eX",
+            "to_id": "XyA1hkGKbr",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "direction__validated"
+            ]
+          },
+          {
+            "from_id": "PkXWivF1eX",
+            "to_id": "JQ_Y8nOg6J",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "direction__validated"
+            ]
+          },
+          {
+            "from_id": "PkXWivF1eX",
+            "to_id": "A3rC90sEK_",
+            "type": "relation",
+            "direction": "bi",
+            "labels": [
+              "direction__validated"
+            ]
+          },
+          {
+            "from_id": "PkXWivF1eX",
+            "to_id": "ReXj-BwNOI",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "direction__validated"
+            ]
+          },
+          {
+            "from_id": "PkXWivF1eX",
+            "to_id": "yl-jZk-Bap",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "direction__validated"
+            ]
+          },
+          {
+            "from_id": "PkXWivF1eX",
+            "to_id": "XmcFRvzYgm",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "direction__validated"
+            ]
+          },
+          {
+            "from_id": "7igkPxWlgO",
+            "to_id": "yl-jZk-Bap",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "hierarchy"
+            ]
+          },
+          {
+            "from_id": "7igkPxWlgO",
+            "to_id": "XmcFRvzYgm",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "hierarchy"
+            ]
+          },
+          {
+            "from_id": "HQICohtV8H",
+            "to_id": "JQ_Y8nOg6J",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "hierarchy"
+            ]
+          },
+          {
+            "from_id": "HQICohtV8H",
+            "to_id": "A3rC90sEK_",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "hierarchy"
+            ]
+          },
+          {
+            "from_id": "HQICohtV8H",
+            "to_id": "ReXj-BwNOI",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "hierarchy"
+            ]
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-04-07T20:28:25.693715Z",
+        "updated_at": "2026-04-26T20:44:46.495414Z",
+        "draft_created_at": "2026-04-07T20:24:52.169059Z",
+        "lead_time": 768.633,
+        "prediction": {},
+        "result_count": 11,
+        "unique_id": "ae0ce48f-30fe-4e62-90cb-de7972dfab87",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 135,
+        "project": 1,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "ca1f6938-JOURNAL_OF_CONSULTING_AND_CLINICAL_PSYCHOLOGY_1968-2025_sampled_articles.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "ORN": 2725,
+      "VN": "Ovid Technologies",
+      "DB": "APA PsycInfo",
+      "TI": "Multidimensional family therapy for young adolescent substance abuse: Twelve-month outcomes of a randomized controlled trial. [References].",
+      "YR": 2009,
+      "AU": "Liddle, Howard A\n\nRowe, Cynthia L\n\nDakof, Gayle A\n\nHenderson, Craig E\n\nGreenbaum, Paul E",
+      "PT": "Journal\n\nPeer Reviewed Journal",
+      "DT": "Journal Article",
+      "AB": "Research has established the dangers of early onset substance use for young adolescents and its links to a host of developmental problems. Because critical developmental detours can begin or be exacerbated during early adolescence, specialized interventions that target known risk and protective factors in this period are needed. This controlled trial (n = 83) provided an experimental test comparing multidimensional family therapy (MDFT) and a peer group intervention with young teens. Participants were clinically referred, were of low income, and were mostly ethnic minority adolescents (average age = 13.73 years). Treatments were manual guided, lasted 4 months, and were delivered by community agency therapists. Adolescents and parents were assessed at intake, at 6-weeks post-intake, at discharge, and at 6 and 12 months following treatment intake. Latent growth curve modeling analyses demonstrated the superior effectiveness of MDFT over the 12-month follow-up in reducing substance use (effect size: substance use frequency, d = 0.77; substance use problems, d = 0.74), delinquency (d = 0.31), and internalized distress (d = 0.54), and in reducing risk in family, peer, and school domains (d = 0.27, 0.67, and 0.35, respectively) among young adolescents. (PsycInfo Database Record (c) 2025 APA, all rights reserved)",
+      "ID": "young adolescents\n\nadolescent substance abuse\n\ndelinquency\n\nMultidimensional Family Therapy",
+      "CC": "Group & Family Therapy [3313].",
+      "MD": "Empirical Study; Qualitative Study; Quantitative Study",
+      "JN": "Journal of Consulting and Clinical Psychology",
+      "VO": 77,
+      "IP": 1,
+      "FTURL": "Click here for full text options",
+      "AI": "",
+      "Methodology_Category": "Both Quantitative and Qualitative",
+      "Period": "2000-2009"
+    },
+    "meta": {},
+    "created_at": "2026-03-29T21:33:27.316993Z",
+    "updated_at": "2026-04-26T20:44:46.513538Z",
+    "allow_skip": true,
+    "inner_id": 99,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 141,
+    "annotations": [
+      {
+        "id": 206,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "start": 131,
+              "end": 148,
+              "text": "Propensity scores",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "VWQedd3FPB",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 460,
+              "end": 504,
+              "text": "achieve balance on a large set of covariates",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "o-WGvqOjk3",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 978,
+              "end": 998,
+              "text": "sensitivity analysis",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "6lewIsq3J8",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 1032,
+              "end": 1098,
+              "text": "effects of omitted covariates on the estimate of the causal effect",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "1IT0xmNr-e",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "from_id": "VWQedd3FPB",
+            "to_id": "o-WGvqOjk3",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "direction__validated"
+            ]
+          },
+          {
+            "from_id": "6lewIsq3J8",
+            "to_id": "1IT0xmNr-e",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "direction__validated"
+            ]
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-05-09T23:07:54.286289Z",
+        "updated_at": "2026-05-12T16:17:25.212426Z",
+        "draft_created_at": "2026-05-09T22:59:43.707232Z",
+        "lead_time": 1916.98,
+        "prediction": {},
+        "result_count": 5,
+        "unique_id": "10eda4e7-f534-44a2-9bb8-ae2a9ea28176",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 141,
+        "project": 1,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "ca1f6938-JOURNAL_OF_CONSULTING_AND_CLINICAL_PSYCHOLOGY_1968-2025_sampled_articles.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "ORN": 3119,
+      "VN": "Ovid Technologies",
+      "DB": "APA PsycInfo",
+      "TI": "Propensity scores as a basis for equating groups: Basic principles and application in clinical treatment outcome research. [References].",
+      "YR": 2014,
+      "AU": "West, Stephen G\n\nCham, Heining\n\nThoemmes, Felix\n\nRenneberg, Babette\n\nSchulze, Julian\n\nWeiler, Matthias",
+      "PT": "Journal\n\nPeer Reviewed Journal",
+      "DT": "Journal Article",
+      "AB": "A propensity score is the probability that a participant is assigned to the treatment group based on a set of baseline covariates. Propensity scores provide an excellent basis for equating treatment groups on a large set of covariates when randomization is not possible. This article provides a nontechnical introduction to propensity scores for clinical researchers. If all important covariates are measured, then methods that equate on propensity scores can achieve balance on a large set of covariates that mimics that achieved by a randomized experiment. We present an illustration of the steps in the construction and checking of propensity scores in a study of the effectiveness of a health coach versus treatment as usual on the well-being of seriously ill individuals. We then consider alternative methods of equating groups on propensity scores and estimating treatment effects including matching, stratification, weighting, and analysis of covariance. We illustrate a sensitivity analysis that can probe for the potential effects of omitted covariates on the estimate of the causal effect. Finally, we briefly consider several practical and theoretical issues in the use of propensity scores in applied settings. Propensity score methods have advantages over alternative approaches to equating groups particularly when the treatment and control groups do not fully overlap, and there are nonlinear relationships between covariates and the outcome. (PsycInfo Database Record (c) 2025 APA, all rights reserved)",
+      "ID": "matching\n\nnonrandomized study\n\npropensity scores\n\ngroup equating\n\nclinical treatment outcome",
+      "CC": "Health & Mental Health Treatment & Prevention [3300].",
+      "MD": "Empirical Study",
+      "JN": "Journal of Consulting and Clinical Psychology",
+      "VO": 82,
+      "IP": 5,
+      "FTURL": "Click here for full text options",
+      "AI": "",
+      "Methodology_Category": "Other",
+      "Period": "2010-2019"
+    },
+    "meta": {},
+    "created_at": "2026-03-29T21:33:27.317224Z",
+    "updated_at": "2026-05-12T16:17:25.232312Z",
+    "allow_skip": true,
+    "inner_id": 105,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 155,
+    "annotations": [
+      {
+        "id": 118,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "start": 57,
+              "end": 92,
+              "text": "three methods of counselor training",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "ZL4BulKY5a",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 664,
+              "end": 684,
+              "text": "communication skills",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "SBJWzw6mT7",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 807,
+              "end": 815,
+              "text": "empathic",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "OW86ZNNoQ4",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "from_id": "ZL4BulKY5a",
+            "to_id": "SBJWzw6mT7",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "direction__validated"
+            ]
+          },
+          {
+            "from_id": "ZL4BulKY5a",
+            "to_id": "OW86ZNNoQ4",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "direction__validated"
+            ]
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-04-08T14:14:08.773197Z",
+        "updated_at": "2026-04-08T14:14:08.773208Z",
+        "draft_created_at": "2026-04-08T14:12:15.273741Z",
+        "lead_time": 199.857,
+        "prediction": {},
+        "result_count": 4,
+        "unique_id": "5937e8f3-fa6b-4bd7-a87a-3ab0941401cb",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 155,
+        "project": 1,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "a6af812b-Book1.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "ORN": 196,
+      "VN": "Ovid Technologies",
+      "DB": "APA PsycInfo",
+      "TI": "Effects of a Cognitive Adjunct Procedure Within a Microtraining Situation. [References].",
+      "YR": 1981,
+      "AU": "Richardson, Barbara\n\nStone, Gerald L",
+      "PT": "Journal\n\nPeer Reviewed Journal",
+      "AB": "The present study examined the generalization effects of three methods of counselor training: cognitive-behavioral (CB), behavioral (B), and programmed learning (PL). Each of 45 low-scoring females, prescreened on empathic communication, was randomly assigned to one of these groups. The CB and B groups received training via manuals, videotapes, and individual supervision, whereas the PL group received programmed manuals only. The CB group was exposed to cognitive strategies in addition to the skill acquisition content of the B and PL groups. Each trainee completed an interview before, after, and 4 weeks after training. The effects of training on different communication skills were examined and assessed by interview, written, and self-report measures. Findings indicated that the CB group was more empathic at posttraining and demonstrated better communication skills than the PL group at follow-up. The B group generally fell in the intermediate position between the CB and PL groups. These findings are discussed in terms of different cognitive strategies and the benefits of programmed manuals within microtraining. (PsycInfo Database Record (c) 2025 APA, all rights reserved)",
+      "CC": "Professional Education & Training [3410].",
+      "MD": "Empirical Study; Qualitative Study; Quantitative Study",
+      "JN": "Journal of Counseling Psychology",
+      "VO": 28,
+      "IP": 2,
+      "FTURL": "Click here for full text options",
+      "XL": "LibKey Link",
+      "Methodology_Category": "Both Quantitative and Qualitative",
+      "Period": "1980-1989"
+    },
+    "meta": {},
+    "created_at": "2026-04-08T10:45:52.555752Z",
+    "updated_at": "2026-04-08T14:14:08.786881Z",
+    "allow_skip": true,
+    "inner_id": 119,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 178,
+    "annotations": [
+      {
+        "id": 141,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "start": 209,
+              "end": 224,
+              "text": "homophone foils",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "nPx2czcSCU",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 184,
+              "end": 205,
+              "text": "false-positive errors",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "CIKIktQhd2",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 322,
+              "end": 343,
+              "text": "lower frequency words",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "ssF76vKEnG",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 486,
+              "end": 535,
+              "text": "stimuli included a large proportion of homophones",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "yvx8IsV0Rn",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 691,
+              "end": 717,
+              "text": "correct category exemplars",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "Sr3kHX8znI",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 38,
+              "end": 62,
+              "text": "phonological information",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "R3UCphy95s",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "from_id": "nPx2czcSCU",
+            "to_id": "CIKIktQhd2",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "direction__validated"
+            ]
+          },
+          {
+            "from_id": "nPx2czcSCU",
+            "to_id": "Sr3kHX8znI",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "direction__validated"
+            ]
+          },
+          {
+            "from_id": "ssF76vKEnG",
+            "to_id": "CIKIktQhd2",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "moderation__validated"
+            ]
+          },
+          {
+            "from_id": "ssF76vKEnG",
+            "to_id": "nPx2czcSCU",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "moderation__validated"
+            ]
+          },
+          {
+            "from_id": "yvx8IsV0Rn",
+            "to_id": "CIKIktQhd2",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "moderation__validated"
+            ]
+          },
+          {
+            "from_id": "yvx8IsV0Rn",
+            "to_id": "nPx2czcSCU",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "moderation__validated"
+            ]
+          },
+          {
+            "from_id": "R3UCphy95s",
+            "to_id": "nPx2czcSCU",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "hierarchy"
+            ]
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-04-16T13:47:03.633899Z",
+        "updated_at": "2026-04-16T13:49:15.072573Z",
+        "draft_created_at": "2026-04-16T13:42:55.472002Z",
+        "lead_time": 480.527,
+        "prediction": {},
+        "result_count": 7,
+        "unique_id": "52397741-9fa8-4bc7-8ebd-fba68ca5a88a",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 178,
+        "project": 1,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "d1a82eef-additional_article.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "ORN": 161,
+      "VN": "Ovid Technologies",
+      "DB": "APA PsycInfo",
+      "TI": "Does word identification proceed from spelling to sound to meaning? [References].",
+      "YR": 1991,
+      "AU": "Jared, Debra\n\nSeidenberg, Mark S",
+      "PT": "Journal\n\nPeer Reviewed Journal",
+      "AB": "Six experiments addressed the role of phonological information in visual word recognition using a semantic-decision task. Exp 1 replicated Van Orden's (1987) finding that Ss make more false-positive errors on homophone foils than on spelling controls, indicating phonological activation of meaning. Exp 2 showed that only lower frequency words yield this effect when broader categories are used. In Exps 3 and 4, the homophony effect for lower frequency words remained, even though the stimuli included a large proportion of homophones, suggesting that activation of phonological information cannot be strategically inhibited. Exps 5 and 6 examined effects of homophony on targets that were correct category exemplars and yielded similar results. These studies indicate that in skilled readers, phonological information contributes to the activation of word meaning only for low-frequency words. (PsycInfo Database Record (c) 2025 APA, all rights reserved)",
+      "CC": "Learning & Memory [2343].",
+      "MD": "Empirical Study",
+      "JN": "Journal of Experimental Psychology: General",
+      "VO": 120,
+      "IP": "4",
+      "FTURL": "Click here for full text options",
+      "XL": "LibKey Link",
+      "Methodology_Category": "Other",
+      "Period": "1990-1999"
+    },
+    "meta": {},
+    "created_at": "2026-04-16T11:09:03.761353Z",
+    "updated_at": "2026-04-16T13:49:15.091924Z",
+    "allow_skip": true,
+    "inner_id": 142,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 216,
+    "annotations": [
+      {
+        "id": 186,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "start": 484,
+              "end": 504,
+              "text": "attachment avoidance",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "EFwgthrt2h",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 509,
+              "end": 516,
+              "text": "anxiety",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "jeV2wb9YjH",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 509,
+              "end": 516,
+              "text": [
+                "attachment anxiety"
+              ]
+            },
+            "id": "jeV2wb9YjH",
+            "from_name": "var_name",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 538,
+              "end": 566,
+              "text": "self-acceptance difficulties",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "FfpOTDX6Oq",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 602,
+              "end": 623,
+              "text": "low levels of outness",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "CqPDch1afs",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 602,
+              "end": 623,
+              "text": [
+                "levels of outness"
+              ]
+            },
+            "id": "CqPDch1afs",
+            "from_name": "var_name",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 642,
+              "end": 661,
+              "text": "Parental attachment",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "CqREELrsar",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 688,
+              "end": 696,
+              "text": "identity",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "UwrQ2MAO5a",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 688,
+              "end": 696,
+              "text": [
+                "LGB identity"
+              ]
+            },
+            "id": "UwrQ2MAO5a",
+            "from_name": "var_name",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 739,
+              "end": 759,
+              "text": "parental LGB support",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "P5eTeOVueE",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 233,
+              "end": 297,
+              "text": "representations of childhood attachment experiences with parents",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "rCNZgcER7g",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 303,
+              "end": 357,
+              "text": "perceptions of parental support for sexual orientation",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "NGECrvHB45",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 363,
+              "end": 398,
+              "text": "general working model of attachment",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "tfIoSF0-T5",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 408,
+              "end": 421,
+              "text": "LGB variables",
+              "labels": [
+                "Variable"
+              ]
+            },
+            "id": "TBzeGHG6AX",
+            "from_name": "var_label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "from_id": "EFwgthrt2h",
+            "to_id": "FfpOTDX6Oq",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "correlation__validated"
+            ]
+          },
+          {
+            "from_id": "jeV2wb9YjH",
+            "to_id": "FfpOTDX6Oq",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "correlation__validated"
+            ]
+          },
+          {
+            "from_id": "EFwgthrt2h",
+            "to_id": "CqPDch1afs",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "correlation__validated"
+            ]
+          },
+          {
+            "from_id": "CqREELrsar",
+            "to_id": "P5eTeOVueE",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "direction__validated"
+            ]
+          },
+          {
+            "from_id": "P5eTeOVueE",
+            "to_id": "CqPDch1afs",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "direction__validated"
+            ]
+          },
+          {
+            "from_id": "P5eTeOVueE",
+            "to_id": "UwrQ2MAO5a",
+            "type": "relation",
+            "direction": "bi",
+            "labels": [
+              "direction__validated"
+            ]
+          },
+          {
+            "from_id": "rCNZgcER7g",
+            "to_id": "CqREELrsar",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "hierarchy"
+            ]
+          },
+          {
+            "from_id": "NGECrvHB45",
+            "to_id": "P5eTeOVueE",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "hierarchy"
+            ]
+          },
+          {
+            "from_id": "tfIoSF0-T5",
+            "to_id": "EFwgthrt2h",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "hierarchy"
+            ]
+          },
+          {
+            "from_id": "tfIoSF0-T5",
+            "to_id": "jeV2wb9YjH",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "hierarchy"
+            ]
+          },
+          {
+            "from_id": "TBzeGHG6AX",
+            "to_id": "FfpOTDX6Oq",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "hierarchy"
+            ]
+          },
+          {
+            "from_id": "TBzeGHG6AX",
+            "to_id": "CqPDch1afs",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "hierarchy"
+            ]
+          },
+          {
+            "from_id": "TBzeGHG6AX",
+            "to_id": "UwrQ2MAO5a",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "hierarchy"
+            ]
+          },
+          {
+            "from_id": "CqREELrsar",
+            "to_id": "tfIoSF0-T5",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "direction__validated"
+            ]
+          },
+          {
+            "from_id": "tfIoSF0-T5",
+            "to_id": "UwrQ2MAO5a",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "direction__validated"
+            ]
+          },
+          {
+            "from_id": "tfIoSF0-T5",
+            "to_id": "CqPDch1afs",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "direction__validated"
+            ]
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-05-08T10:51:09.101154Z",
+        "updated_at": "2026-05-08T11:49:36.019731Z",
+        "draft_created_at": "2026-05-08T10:45:21.814174Z",
+        "lead_time": 3928.0899999999997,
+        "prediction": {},
+        "result_count": 12,
+        "unique_id": "b89c3e63-8d1f-4082-87aa-967fa05d6592",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 216,
+        "project": 1,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "d1a82eef-additional_article.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "ORN": 1195,
+      "VN": "Ovid Technologies",
+      "DB": "APA PsycInfo",
+      "TI": "Self-acceptance and self-disclosure of sexual orientation in lesbian, gay, and bisexual adults: An attachment perspective. [References].",
+      "YR": 2003,
+      "AU": "Mohr, Jonathan J\n\nFassinger, Ruth E",
+      "PT": "Journal\n\nPeer Reviewed Journal",
+      "AB": "A model linking attachment variables with self-acceptance and self-disclosure of sexual orientation was tested using data from 489 lesbian, gay, and bisexual (LGB) adults. The model included the following 4 domains of variables: (a) representations of childhood attachment experiences with parents, (b) perceptions of parental support for sexual orientation, (c) general working model of attachment, and (d) LGB variables. Results generally supported the proposed model. For example, attachment avoidance and anxiety were associated with self-acceptance difficulties, and avoidance was associated with low levels of outness in everyday life. Parental attachment had an indirect effect on identity and outness through its associations with parental LGB support and general attachment. Some results varied depending on participants' gender and parental religious affiliation. (PsycInfo Database Record (c) 2025 APA, all rights reserved)",
+      "CC": "Sexual Behavior & Sexual Orientation [2980].",
+      "MD": "Empirical Study; Quantitative Study",
+      "JN": "Journal of Counseling Psychology",
+      "VO": 50,
+      "IP": "4",
+      "FTURL": "Click here for full text options",
+      "XL": "LibKey Link",
+      "Methodology_Category": "Quantitative Only",
+      "Period": "2000-2009"
+    },
+    "meta": {},
+    "created_at": "2026-04-16T11:09:03.763004Z",
+    "updated_at": "2026-05-08T11:49:36.049906Z",
+    "allow_skip": true,
+    "inner_id": 180,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  }
+]

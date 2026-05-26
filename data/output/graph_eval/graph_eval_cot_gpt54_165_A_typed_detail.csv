@@ -1,0 +1,9 @@
+edge_matched,edge_p,edge_r,edge_f1,timed_out,hierarchy_matched,hierarchy_gt,hierarchy_pred,hierarchy_p,hierarchy_r,hierarchy_f1,directional_matched,directional_gt,directional_pred,directional_p,directional_r,directional_f1,correlational_matched,correlational_gt,correlational_pred,correlational_p,correlational_r,correlational_f1,moderation_matched,moderation_gt,moderation_pred,moderation_p,moderation_r,moderation_f1,article_id,gt_n_edges,pred_n_edges,strategy,any_timeout
+3,1.0,1.0,1.0,False,0,0,0,1.0,1.0,1.0,2,2,2,1.0,1.0,1.0,0,0,0,1.0,1.0,1.0,1,1,1,1.0,1.0,1.0,7,3,3,degree_desc,False
+4,1.0,0.6666666666666666,0.8,False,0,0,0,1.0,1.0,1.0,0,2,0,0.0,0.0,0.0,0,0,0,1.0,1.0,1.0,4,4,4,1.0,1.0,1.0,97,6,4,degree_desc,False
+13,0.7647058823529411,0.5416666666666666,0.6341463414634146,True,2,8,5,0.4,0.25,0.3076923076923077,5,9,6,0.8333333333333334,0.5555555555555556,0.6666666666666667,0,1,0,0.0,0.0,0.0,6,6,6,1.0,1.0,1.0,100,24,17,degree_asc,True
+1,1.0,1.0,1.0,False,0,0,0,1.0,1.0,1.0,1,1,1,1.0,1.0,1.0,0,0,0,1.0,1.0,1.0,0,0,0,1.0,1.0,1.0,106,1,1,degree_desc,False
+4,1.0,0.3636363636363636,0.5333333333333333,False,0,3,0,0.0,0.0,0.0,3,6,3,1.0,0.5,0.6666666666666666,1,2,1,1.0,0.5,0.6666666666666666,0,0,0,1.0,1.0,1.0,112,11,4,degree_desc,False
+14,1.0,1.0,1.0,False,5,5,5,1.0,1.0,1.0,9,9,9,1.0,1.0,1.0,0,0,0,1.0,1.0,1.0,0,0,0,1.0,1.0,1.0,135,14,14,degree_desc,False
+2,1.0,1.0,1.0,False,0,0,0,1.0,1.0,1.0,2,2,2,1.0,1.0,1.0,0,0,0,1.0,1.0,1.0,0,0,0,1.0,1.0,1.0,155,2,2,degree_desc,False
+5,0.625,0.8333333333333334,0.7142857142857143,False,0,0,0,1.0,1.0,1.0,1,2,2,0.5,0.5,0.5,0,0,0,1.0,1.0,1.0,4,4,6,0.6666666666666666,1.0,0.8,178,6,8,degree_desc,False

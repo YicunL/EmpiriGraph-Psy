@@ -1,0 +1,4 @@
+pair,kappa,n_node_pairs,n_categories,categories
+A-B,0.5662251949627832,722,5,none|hierarchy|directional|correlational|moderation
+A-JSON,0.5900858224623724,649,5,none|hierarchy|directional|correlational|moderation
+B-JSON,0.559241397458645,776,5,none|hierarchy|directional|correlational|moderation

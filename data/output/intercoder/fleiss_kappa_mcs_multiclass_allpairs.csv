@@ -1,0 +1,2 @@
+measure,kappa,n_node_pairs,n_categories,categories
+fleiss_mcs_multiclass_allpairs,0.6315475456981788,613,5,none|hierarchy|directional|correlational|moderation
