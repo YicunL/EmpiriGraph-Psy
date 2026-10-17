@@ -1,0 +1,8 @@
+type,human_edges,llm_edges,matched_edges,micro_precision,micro_recall,micro_f1,macro_precision,macro_recall,macro_f1
+Mechanistic,759,757,583,0.770,0.768,0.769,0.829,0.826,0.798
+Associational,282,297,206,0.694,0.730,0.712,0.725,0.742,0.711
+Moderational,253,187,151,0.807,0.597,0.686,0.728,0.619,0.639
+Hierarchical,418,417,272,0.652,0.651,0.651,0.690,0.668,0.662
+Higher-Level Graph,768,800,570,0.713,0.742,0.727,0.743,0.789,0.732
+Type-Agnostic Graph,1712,1658,1261,0.761,0.737,0.748,0.813,0.815,0.779
+Full Graph,1712,1658,1212,0.731,0.708,0.719,0.767,0.771,0.736

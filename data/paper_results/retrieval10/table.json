@@ -1,0 +1,38 @@
+[
+  {
+    "Method": "BM25 Text RAG",
+    "Evidence_F1": 0.7480916030534351,
+    "Recall_at_10": 0.8402777777777779,
+    "Null_F1": 0.8461538461538461,
+    "Moderation_F1": 0.9230769230769231,
+    "Unsupported_claims": 0.0,
+    "Unsupported_count": 0.0,
+    "Claims": 62.0,
+    "Null_reference_units": 12.0,
+    "Moderation_reference_units": 7.0
+  },
+  {
+    "Method": "Hybrid Text RAG",
+    "Evidence_F1": 0.7619047619047619,
+    "Recall_at_10": 0.8291666666666666,
+    "Null_F1": 0.9166666666666666,
+    "Moderation_F1": 0.8571428571428571,
+    "Unsupported_claims": 0.0,
+    "Unsupported_count": 0.0,
+    "Claims": 59.0,
+    "Null_reference_units": 12.0,
+    "Moderation_reference_units": 7.0
+  },
+  {
+    "Method": "EmpiriGraph-Psy + Hybrid Text RAG",
+    "Evidence_F1": 0.8095238095238095,
+    "Recall_at_10": 0.9402777777777779,
+    "Null_F1": 0.9166666666666666,
+    "Moderation_F1": 0.9333333333333333,
+    "Unsupported_claims": 0.0,
+    "Unsupported_count": 0.0,
+    "Claims": 60.0,
+    "Null_reference_units": 12.0,
+    "Moderation_reference_units": 7.0
+  }
+]

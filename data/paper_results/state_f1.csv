@@ -1,0 +1,5 @@
+state,human_edges,llm_edges,matched_edges,micro_precision,micro_recall,micro_f1,macro_precision,macro_recall,macro_f1
+Validated,1494,1434,1023,0.713,0.685,0.699,0.766,0.745,0.724
+Null,175,195,114,0.585,0.651,0.616,0.658,0.673,0.641
+Hypothesized,43,29,14,0.483,0.326,0.389,0.298,0.333,0.313
+Full Graph,1712,1658,1151,0.694,0.672,0.683,0.728,0.734,0.700

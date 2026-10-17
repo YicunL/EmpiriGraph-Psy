@@ -1,0 +1,3 @@
+pipeline,runs,human_edges,mean_llm_edges,mean_matched_edges,micro_precision,micro_recall,mean_micro_f1,sd_micro_f1,macro_precision,macro_recall,mean_macro_f1,sd_macro_f1
+GPT-5.2 + GPT-5.4,3,1712,1673.3,1192.7,0.713,0.697,0.705,0.017,0.753,0.767,0.728,0.011
+GPT-6 Luna,3,1712,1517.7,1118.0,0.737,0.653,0.6923,0.0005,0.774,0.722,0.715,0.002

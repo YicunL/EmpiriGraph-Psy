@@ -1,0 +1,13 @@
+model,macro_precision,macro_recall,macro_f1,estimated_batch_cost_usd_per_210_abstracts
+GPT-5.4 (Direct Prompt),0.566,0.606,0.528,1.668
+GPT-5.2 + GPT-5.4,0.767,0.771,0.736,5.770
+GPT-6 Luna,0.766,0.710,0.716,0.205
+GPT-5.4,0.754,0.714,0.694,5.071
+GPT-5.4 (Single Step CoT),0.691,0.698,0.658,2.748
+GPT-5.2,0.700,0.726,0.679,4.414
+GPT-4o,0.738,0.508,0.551,3.836
+Claude Opus 4.7,0.700,0.651,0.635,8.906
+Claude Sonnet 4.6,0.660,0.736,0.652,5.344
+Gemini 3 Flash,0.536,0.782,0.598,1.014
+DeepSeek V4 Pro,0.757,0.619,0.641,1.699
+GLiNER-Relex,0.283,0.322,0.242,
