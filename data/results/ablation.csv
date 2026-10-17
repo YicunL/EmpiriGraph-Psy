@@ -1,5 +1,5 @@
 configuration,macro_precision,macro_recall,macro_f1
-Full five-stage pipeline (selected run),0.767,0.771,0.736
+Full five-stage pipeline,0.767,0.771,0.736
 Without Step 1,0.671,0.756,0.672
 Without Step 2,0.735,0.710,0.682
 Without Step 3,0.725,0.757,0.700

@@ -1,5 +1,4 @@
 {
-  "selection": "All 4 strict Evidence F1 wins, plus 6 known ties selected for category variety: hierarchy_07, expand_null_01, expand_direct_03, expand_indirect_03, expand_moderation_02 and expand_null_03. Selection made after observing outcomes, without further optimization of aggregate scores. Ordered by F1 gain then question ID.",
   "questions": [
     {
       "id": "moderation_01",
@@ -11,8 +10,7 @@
       "text_recall_at_10": 0.0,
       "graph_assisted_recall_at_10": 1.0,
       "text_utility": 0,
-      "graph_assisted_utility": 3,
-      "interpretation": "Clear retrieval gain: combined retrieval includes sh_108 and correctly reports gender moderation; Hybrid Text RAG misses that study and cannot answer the requested relationship."
+      "graph_assisted_utility": 3
     },
     {
       "id": "expand_null_02",
@@ -24,8 +22,7 @@
       "text_recall_at_10": 1.0,
       "graph_assisted_recall_at_10": 1.0,
       "text_utility": 3,
-      "graph_assisted_utility": 3,
-      "interpretation": "Finding-list coverage gain with equal article recall: combined answer includes the sh_143 maladaptive-perfectionism prediction. Hybrid Text RAG places that detail only in limitations, outside the scored claim list. Utility is tied."
+      "graph_assisted_utility": 3
     },
     {
       "id": "expand_indirect_04",
@@ -37,8 +34,7 @@
       "text_recall_at_10": 1.0,
       "graph_assisted_recall_at_10": 1.0,
       "text_utility": 3,
-      "graph_assisted_utility": 3,
-      "interpretation": "Precision gain with identical reference-path recovery and article recall: both recover two parallel routes, but the combined method produces one fewer out-of-scope finding. Utility is tied; this is not better path discovery."
+      "graph_assisted_utility": 3
     },
     {
       "id": "direct_07",
@@ -50,8 +46,7 @@
       "text_recall_at_10": 0.6666666666666666,
       "graph_assisted_recall_at_10": 0.7777777777777778,
       "text_utility": 2,
-      "graph_assisted_utility": 2,
-      "interpretation": "Small retrieval and finding-recall gain: combined retrieval adds sh_193 and one matched finding, plus one additional out-of-scope finding. Utility is tied."
+      "graph_assisted_utility": 2
     },
     {
       "id": "expand_direct_03",
@@ -63,8 +58,7 @@
       "text_recall_at_10": 0.625,
       "graph_assisted_recall_at_10": 0.625,
       "text_utility": 3,
-      "graph_assisted_utility": 3,
-      "interpretation": "Tied Evidence F1, article Recall@10 and utility; selected for category variety among direct relationships, facets, null findings, moderation and indirect relationships."
+      "graph_assisted_utility": 3
     },
     {
       "id": "expand_indirect_03",
@@ -76,8 +70,7 @@
       "text_recall_at_10": 1.0,
       "graph_assisted_recall_at_10": 1.0,
       "text_utility": 3,
-      "graph_assisted_utility": 3,
-      "interpretation": "Tied Evidence F1, article Recall@10 and utility; selected for category variety among direct relationships, facets, null findings, moderation and indirect relationships."
+      "graph_assisted_utility": 3
     },
     {
       "id": "expand_moderation_02",
@@ -89,8 +82,7 @@
       "text_recall_at_10": 1.0,
       "graph_assisted_recall_at_10": 1.0,
       "text_utility": 3,
-      "graph_assisted_utility": 3,
-      "interpretation": "Tied Evidence F1, article Recall@10 and utility; selected for category variety among direct relationships, facets, null findings, moderation and indirect relationships."
+      "graph_assisted_utility": 3
     },
     {
       "id": "expand_null_01",
@@ -102,8 +94,7 @@
       "text_recall_at_10": 1.0,
       "graph_assisted_recall_at_10": 1.0,
       "text_utility": 3,
-      "graph_assisted_utility": 3,
-      "interpretation": "Tied Evidence F1, article Recall@10 and utility; selected for category variety among direct relationships, facets, null findings, moderation and indirect relationships."
+      "graph_assisted_utility": 3
     },
     {
       "id": "expand_null_03",
@@ -115,8 +106,7 @@
       "text_recall_at_10": 1.0,
       "graph_assisted_recall_at_10": 1.0,
       "text_utility": 3,
-      "graph_assisted_utility": 3,
-      "interpretation": "Tied Evidence F1, article Recall@10 and utility; selected for category variety among direct relationships, facets, null findings, moderation and indirect relationships."
+      "graph_assisted_utility": 3
     },
     {
       "id": "hierarchy_07",
@@ -128,8 +118,12 @@
       "text_recall_at_10": 1.0,
       "graph_assisted_recall_at_10": 1.0,
       "text_utility": 3,
-      "graph_assisted_utility": 3,
-      "interpretation": "Tied Evidence F1, article Recall@10 and utility; selected for category variety among direct relationships, facets, null findings, moderation and indirect relationships."
+      "graph_assisted_utility": 3
     }
-  ]
+  ],
+  "sampling": {
+    "method": "post_hoc_outcome_stratified",
+    "graph_assisted_wins": 4,
+    "ties": 6
+  }
 }
