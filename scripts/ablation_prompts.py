@@ -176,7 +176,7 @@ class V10AblationPrompts:
                 d = _replace(d,
                     'USE RELEVANT SENTENCES\n- Ground all relationships primarily in the provided relevant sentences.',
                     'USE THE ABSTRACT DIRECTLY\n'
-                    '- No preselected sentence list is supplied. Ground relationships directly '
+                    '- No sentence list is supplied. Ground relationships directly '
                     'in this study\'s hypotheses, methods, analyses and findings in the full abstract. '
                     'Exclude prior-work, background and implication-only claims; retain sentences '
                     'that also contain this study\'s empirical content. Do not output an evidence-sentence list.')

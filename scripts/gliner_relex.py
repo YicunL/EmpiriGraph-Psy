@@ -1,8 +1,4 @@
-"""Zero-shot GLiNER-Relex example on the released ten-abstract sample.
-
-This is an example runner using the paper's fixed label descriptions and
-thresholds. It does not reproduce the 210-abstract baseline score.
-"""
+"""Run zero-shot GLiNER-Relex with fixed labels and thresholds."""
 
 import argparse
 import csv
@@ -89,7 +85,7 @@ def main():
         default=Path("data/raw/EmpiriGraph-Psy_gold_annotation.json"),
     )
     parser.add_argument(
-        "--output", type=Path, default=Path("data/output/gliner_relex_sample.csv")
+        "--output", type=Path, default=Path("data/output/gliner_relex.csv")
     )
     parser.add_argument("--device", default="cpu", choices=("cpu", "cuda"))
     args = parser.parse_args()

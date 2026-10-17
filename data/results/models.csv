@@ -1,4 +1,4 @@
-model,macro_precision,macro_recall,macro_f1,estimated_batch_cost_usd_per_210_abstracts
+model,macro_precision,macro_recall,macro_f1,estimated_batch_cost_usd
 GPT-5.4 (Direct Prompt),0.566,0.606,0.528,1.668
 GPT-5.2 + GPT-5.4,0.767,0.771,0.736,5.770
 GPT-6 Luna,0.766,0.710,0.716,0.205
